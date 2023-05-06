@@ -1,0 +1,6 @@
+tensorflow==2.11.1
+Streamlit==1.22.0
+python-multipart
+pillow
+matplotlib
+numpys
