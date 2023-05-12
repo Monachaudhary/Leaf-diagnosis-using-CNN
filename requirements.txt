@@ -1,9 +1,10 @@
-numpy==1.23.5
-Pillow==9.5.0
-Pillow==9.5.0
+numpy
+Pillow
+python-multipart
+matplotlib
 plotly==5.14.1
 Requests==2.30.0
-streamlit==1.22.0
+streamlit
 streamlit_lottie==0.0.3
 streamlit_option_menu==0.3.2
 tensorflow==2.11.1
