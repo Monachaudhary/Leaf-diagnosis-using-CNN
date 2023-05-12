@@ -1,0 +1,50 @@
+
+.css-ffhzg2 {
+    position: absolute;
+    background: rgb(14 17 23);
+    color: rgb(250, 250, 250);
+    inset: 0px;
+    overflow: hidden;
+}
+.css-10trblm {
+    position: relative;
+    flex: 1 1 0%;
+    margin-left: calc(3rem);
+    color: #02ab21;
+}
+p, ol, ul, dl {
+    margin: 0px 0px 1rem;
+    padding: 0px;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.css-q8sbsg p {
+    word-break: break-word;
+    margin-bottom: 0px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+}
+div.css-1kyxreq {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1rem;
+}
+
+.css-z8f339 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    color: rgb(250, 250, 250);
+}
+
+div.js-plotly-plot .plotly .main-svg {
+    position: absolute;
+    top: 0px;
+    left: 70px;
+}
