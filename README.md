@@ -11,5 +11,5 @@ pip install tensorflow-cpu
 pip install pillow
 
 <h3 style="color:Yellow;">Contributor</h3>
-<h4 style="color:red;">1. Manu chaudhary</h4>
-<h4 style="color:red;">2. Somrupa Sarkar</h4>
+1. Manu chaudhar
+2. 2. Somrupa Sarkar
