@@ -10,6 +10,6 @@ pip install streamlit
 pip install tensorflow-cpu
 pip install pillow
 
-<h3 style="color:Yellow;">Contributor</h3>
+<h3 style="color:Yellow;">Contributors</h3>
 1. Manu chaudhar<br>
 2. Somrupa Sarkar
